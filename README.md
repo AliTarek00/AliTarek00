@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali Tarek @AliTarek00
+- 👋 Hi, I’m Ali Tarek 
 - 👀 I’m interested in Software and iOS Development 
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on more opensource projects
